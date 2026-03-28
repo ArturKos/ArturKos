@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @ArturKos
-- 👀 I’m interested in C/C++ programming and other
-- 🌱 I’m currently learning embedded systems
+# Hi, I'm Artur Kos
 
-<!---
-ArturKos/ArturKos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Software Developer** from Szczecin, Poland, specializing in systems programming, embedded IoT, and game development.
+
+## What I work with
+
+**Languages:** C, C++, Python, PHP, Java, JavaScript, C#, Pascal
+**Embedded / IoT:** ESP8266, Arduino, Raspberry Pi, MQTT, DHT sensors
+**Tools:** Linux, GCC, GDB, CMake, Git, Valgrind, GoogleTest
+**Other:** Multithreading (pthreads), MySQL, Android, Allegro5
+
+## Featured projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [BigNumber Library](https://github.com/ArturKos/BigNumber) | Arbitrary-precision arithmetic with linked lists. 43 unit tests, zero memory leaks. | C++, GoogleTest, Valgrind |
+| [CHIP-8 Emulator](https://github.com/ArturKos/CHIP-8) | Faithful processor emulator — interprets opcodes, manages memory, display, and timers. | C/C++, Allegro5 |
+| [CPU Usage Tracker](https://github.com/ArturKos/cpu_usage_tracker) | Multithreaded per-core CPU monitor reading /proc/stat with mutex synchronization. | C, pthreads |
+| [Weather Station](https://github.com/ArturKos/Stacja-meteo) | Full-stack IoT system: ESP8266 sensors, Raspberry Pi server, web dashboard, Android app. | C, PHP, MySQL, Android |
+| [Arkanoid Game](https://github.com/ArturKos/arkanoid) | Classic arcade game with levels, power-ups, and scoring. | C++, Allegro5 |
+| [Relay Board Controller](https://github.com/ArturKos/RelayBoard) | Cross-platform hardware control — Windows GUI + Linux CLI. | C++, C, CMake |
+
+## Get in touch
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-arturkos.github.io-1e90ff?style=flat-square&logo=google-chrome&logoColor=white)](https://arturkos.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Artur%20Kos-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-kos-8a03a1364)
+[![Email](https://img.shields.io/badge/Email-Artur.Kos.software.developer-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:Artur.Kos.software.developer@gmail.com)
