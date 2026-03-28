@@ -17,7 +17,7 @@
 | [BigNumber Library](https://github.com/ArturKos/BigNumber) | Arbitrary-precision arithmetic with linked lists. 43 unit tests, zero memory leaks. | C++, GoogleTest, Valgrind |
 | [CHIP-8 Emulator](https://github.com/ArturKos/CHIP-8) | Faithful processor emulator — interprets opcodes, manages memory, display, and timers. | C/C++, Allegro5 |
 | [CPU Usage Tracker](https://github.com/ArturKos/cpu_usage_tracker) | Multithreaded per-core CPU monitor reading /proc/stat with mutex synchronization. | C, pthreads |
-| [Weather Station](https://github.com/ArturKos/Stacja-meteo) | Full-stack IoT system: ESP8266 sensors, Raspberry Pi server, web dashboard, Android app. | C, PHP, MySQL, Android |
+| [Weather Station](https://github.com/ArturKos/WeatherStation) | Full-stack IoT system: ESP8266 sensors, Raspberry Pi server, web dashboard, Android app. | C, PHP, MySQL, Android |
 | [Arkanoid Game](https://github.com/ArturKos/arkanoid) | Classic arcade game with levels, power-ups, and scoring. | C++, Allegro5 |
 | [Relay Board Controller](https://github.com/ArturKos/RelayBoard) | Cross-platform hardware control — Windows GUI + Linux CLI. | C++, C, CMake |
 
