@@ -13,6 +13,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [EtrayZ Debian Firmware](https://github.com/ArturKos/etrayz-debian) | Custom Debian 6 firmware for Xtreamer EtrayZ NAS — updated SSH, TLS, download manager, disk image restore. | ARM, GCC, Dropbear, OpenSSL |
 | [Jigsaw Puzzle Game](https://github.com/ArturKos/puzzle-AI-game-generated) | Desktop jigsaw with Bezier-curve pieces, 3 difficulty levels, drag-and-drop, score tracking. Fully AI-generated. | C++17, SFML, Cairo |
 | [BigNumber Library](https://github.com/ArturKos/BigNumber) | Arbitrary-precision arithmetic with linked lists. 43 unit tests, zero memory leaks. | C++, GoogleTest, Valgrind |
 | [CHIP-8 Emulator](https://github.com/ArturKos/CHIP-8) | Faithful processor emulator — interprets opcodes, manages memory, display, and timers. | C/C++, Allegro5 |
